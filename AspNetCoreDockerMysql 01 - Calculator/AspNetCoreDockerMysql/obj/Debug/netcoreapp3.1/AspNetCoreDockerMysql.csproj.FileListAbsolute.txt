@@ -18,3 +18,23 @@ D:\Altiva\Treinamento\Udemy\AspNetCoreDockerMysql\AspNetCoreDockerMysql\AspNetCo
 D:\Altiva\Treinamento\Udemy\AspNetCoreDockerMysql\AspNetCoreDockerMysql\AspNetCoreDockerMysql\obj\Debug\netcoreapp3.1\AspNetCoreDockerMysql.dll
 D:\Altiva\Treinamento\Udemy\AspNetCoreDockerMysql\AspNetCoreDockerMysql\AspNetCoreDockerMysql\obj\Debug\netcoreapp3.1\AspNetCoreDockerMysql.pdb
 D:\Altiva\Treinamento\Udemy\AspNetCoreDockerMysql\AspNetCoreDockerMysql\AspNetCoreDockerMysql\obj\Debug\netcoreapp3.1\AspNetCoreDockerMysql.genruntimeconfig.cache
+D:\Altiva\Treinamento\Udemy\AspNetCoreDockerMysql\RestWithASP-NetUdemy\AspNetCoreDockerMysql 01 - Calculator\AspNetCoreDockerMysql\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\Altiva\Treinamento\Udemy\AspNetCoreDockerMysql\RestWithASP-NetUdemy\AspNetCoreDockerMysql 01 - Calculator\AspNetCoreDockerMysql\bin\Debug\netcoreapp3.1\appsettings.json
+D:\Altiva\Treinamento\Udemy\AspNetCoreDockerMysql\RestWithASP-NetUdemy\AspNetCoreDockerMysql 01 - Calculator\AspNetCoreDockerMysql\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+D:\Altiva\Treinamento\Udemy\AspNetCoreDockerMysql\RestWithASP-NetUdemy\AspNetCoreDockerMysql 01 - Calculator\AspNetCoreDockerMysql\bin\Debug\netcoreapp3.1\AspNetCoreDockerMysql.exe
+D:\Altiva\Treinamento\Udemy\AspNetCoreDockerMysql\RestWithASP-NetUdemy\AspNetCoreDockerMysql 01 - Calculator\AspNetCoreDockerMysql\bin\Debug\netcoreapp3.1\AspNetCoreDockerMysql.deps.json
+D:\Altiva\Treinamento\Udemy\AspNetCoreDockerMysql\RestWithASP-NetUdemy\AspNetCoreDockerMysql 01 - Calculator\AspNetCoreDockerMysql\bin\Debug\netcoreapp3.1\AspNetCoreDockerMysql.runtimeconfig.json
+D:\Altiva\Treinamento\Udemy\AspNetCoreDockerMysql\RestWithASP-NetUdemy\AspNetCoreDockerMysql 01 - Calculator\AspNetCoreDockerMysql\bin\Debug\netcoreapp3.1\AspNetCoreDockerMysql.runtimeconfig.dev.json
+D:\Altiva\Treinamento\Udemy\AspNetCoreDockerMysql\RestWithASP-NetUdemy\AspNetCoreDockerMysql 01 - Calculator\AspNetCoreDockerMysql\bin\Debug\netcoreapp3.1\AspNetCoreDockerMysql.dll
+D:\Altiva\Treinamento\Udemy\AspNetCoreDockerMysql\RestWithASP-NetUdemy\AspNetCoreDockerMysql 01 - Calculator\AspNetCoreDockerMysql\bin\Debug\netcoreapp3.1\AspNetCoreDockerMysql.pdb
+D:\Altiva\Treinamento\Udemy\AspNetCoreDockerMysql\RestWithASP-NetUdemy\AspNetCoreDockerMysql 01 - Calculator\AspNetCoreDockerMysql\obj\Debug\netcoreapp3.1\AspNetCoreDockerMysql.csproj.CoreCompileInputs.cache
+D:\Altiva\Treinamento\Udemy\AspNetCoreDockerMysql\RestWithASP-NetUdemy\AspNetCoreDockerMysql 01 - Calculator\AspNetCoreDockerMysql\obj\Debug\netcoreapp3.1\AspNetCoreDockerMysql.MvcApplicationPartsAssemblyInfo.cache
+D:\Altiva\Treinamento\Udemy\AspNetCoreDockerMysql\RestWithASP-NetUdemy\AspNetCoreDockerMysql 01 - Calculator\AspNetCoreDockerMysql\obj\Debug\netcoreapp3.1\AspNetCoreDockerMysql.AssemblyInfoInputs.cache
+D:\Altiva\Treinamento\Udemy\AspNetCoreDockerMysql\RestWithASP-NetUdemy\AspNetCoreDockerMysql 01 - Calculator\AspNetCoreDockerMysql\obj\Debug\netcoreapp3.1\AspNetCoreDockerMysql.AssemblyInfo.cs
+D:\Altiva\Treinamento\Udemy\AspNetCoreDockerMysql\RestWithASP-NetUdemy\AspNetCoreDockerMysql 01 - Calculator\AspNetCoreDockerMysql\obj\Debug\netcoreapp3.1\AspNetCoreDockerMysql.RazorTargetAssemblyInfo.cache
+D:\Altiva\Treinamento\Udemy\AspNetCoreDockerMysql\RestWithASP-NetUdemy\AspNetCoreDockerMysql 01 - Calculator\AspNetCoreDockerMysql\obj\Debug\netcoreapp3.1\staticwebassets\AspNetCoreDockerMysql.StaticWebAssets.Manifest.cache
+D:\Altiva\Treinamento\Udemy\AspNetCoreDockerMysql\RestWithASP-NetUdemy\AspNetCoreDockerMysql 01 - Calculator\AspNetCoreDockerMysql\obj\Debug\netcoreapp3.1\staticwebassets\AspNetCoreDockerMysql.StaticWebAssets.xml
+D:\Altiva\Treinamento\Udemy\AspNetCoreDockerMysql\RestWithASP-NetUdemy\AspNetCoreDockerMysql 01 - Calculator\AspNetCoreDockerMysql\obj\Debug\netcoreapp3.1\AspNetCoreDockerMysql.dll
+D:\Altiva\Treinamento\Udemy\AspNetCoreDockerMysql\RestWithASP-NetUdemy\AspNetCoreDockerMysql 01 - Calculator\AspNetCoreDockerMysql\obj\Debug\netcoreapp3.1\AspNetCoreDockerMysql.pdb
+D:\Altiva\Treinamento\Udemy\AspNetCoreDockerMysql\RestWithASP-NetUdemy\AspNetCoreDockerMysql 01 - Calculator\AspNetCoreDockerMysql\obj\Debug\netcoreapp3.1\AspNetCoreDockerMysql.genruntimeconfig.cache
+D:\Altiva\Treinamento\Udemy\AspNetCoreDockerMysql\RestWithASP-NetUdemy\AspNetCoreDockerMysql 01 - Calculator\AspNetCoreDockerMysql\obj\Debug\netcoreapp3.1\AspNetCoreDockerMysql.csprojAssemblyReference.cache

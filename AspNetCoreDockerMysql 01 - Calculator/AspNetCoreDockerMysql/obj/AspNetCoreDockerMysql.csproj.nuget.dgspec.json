@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Altiva\\Treinamento\\Udemy\\AspNetCoreDockerMysql\\AspNetCoreDockerMysql\\AspNetCoreDockerMysql\\AspNetCoreDockerMysql.csproj": {}
+    "D:\\Altiva\\Treinamento\\Udemy\\AspNetCoreDockerMysql\\RestWithASP-NetUdemy\\AspNetCoreDockerMysql 01 - Calculator\\AspNetCoreDockerMysql\\AspNetCoreDockerMysql.csproj": {}
   },
   "projects": {
-    "D:\\Altiva\\Treinamento\\Udemy\\AspNetCoreDockerMysql\\AspNetCoreDockerMysql\\AspNetCoreDockerMysql\\AspNetCoreDockerMysql.csproj": {
+    "D:\\Altiva\\Treinamento\\Udemy\\AspNetCoreDockerMysql\\RestWithASP-NetUdemy\\AspNetCoreDockerMysql 01 - Calculator\\AspNetCoreDockerMysql\\AspNetCoreDockerMysql.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Altiva\\Treinamento\\Udemy\\AspNetCoreDockerMysql\\AspNetCoreDockerMysql\\AspNetCoreDockerMysql\\AspNetCoreDockerMysql.csproj",
+        "projectUniqueName": "D:\\Altiva\\Treinamento\\Udemy\\AspNetCoreDockerMysql\\RestWithASP-NetUdemy\\AspNetCoreDockerMysql 01 - Calculator\\AspNetCoreDockerMysql\\AspNetCoreDockerMysql.csproj",
         "projectName": "AspNetCoreDockerMysql",
-        "projectPath": "D:\\Altiva\\Treinamento\\Udemy\\AspNetCoreDockerMysql\\AspNetCoreDockerMysql\\AspNetCoreDockerMysql\\AspNetCoreDockerMysql.csproj",
+        "projectPath": "D:\\Altiva\\Treinamento\\Udemy\\AspNetCoreDockerMysql\\RestWithASP-NetUdemy\\AspNetCoreDockerMysql 01 - Calculator\\AspNetCoreDockerMysql\\AspNetCoreDockerMysql.csproj",
         "packagesPath": "C:\\Users\\Particular\\.nuget\\packages\\",
-        "outputPath": "D:\\Altiva\\Treinamento\\Udemy\\AspNetCoreDockerMysql\\AspNetCoreDockerMysql\\AspNetCoreDockerMysql\\obj\\",
+        "outputPath": "D:\\Altiva\\Treinamento\\Udemy\\AspNetCoreDockerMysql\\RestWithASP-NetUdemy\\AspNetCoreDockerMysql 01 - Calculator\\AspNetCoreDockerMysql\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\",
