@@ -37,4 +37,3 @@ D:\Altiva\Treinamento\Udemy\AspNetCoreDockerMysql\RestWithASP-NetUdemy\AspNetCor
 D:\Altiva\Treinamento\Udemy\AspNetCoreDockerMysql\RestWithASP-NetUdemy\AspNetCoreDockerMysql 01 - Calculator\AspNetCoreDockerMysql\obj\Debug\netcoreapp3.1\AspNetCoreDockerMysql.dll
 D:\Altiva\Treinamento\Udemy\AspNetCoreDockerMysql\RestWithASP-NetUdemy\AspNetCoreDockerMysql 01 - Calculator\AspNetCoreDockerMysql\obj\Debug\netcoreapp3.1\AspNetCoreDockerMysql.pdb
 D:\Altiva\Treinamento\Udemy\AspNetCoreDockerMysql\RestWithASP-NetUdemy\AspNetCoreDockerMysql 01 - Calculator\AspNetCoreDockerMysql\obj\Debug\netcoreapp3.1\AspNetCoreDockerMysql.genruntimeconfig.cache
-D:\Altiva\Treinamento\Udemy\AspNetCoreDockerMysql\RestWithASP-NetUdemy\AspNetCoreDockerMysql 01 - Calculator\AspNetCoreDockerMysql\obj\Debug\netcoreapp3.1\AspNetCoreDockerMysql.csprojAssemblyReference.cache
