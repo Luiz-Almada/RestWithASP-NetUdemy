@@ -5,7 +5,7 @@ using Microsoft.AspNetCore.Mvc;
 namespace AspNetCoreDockerMysql.Controllers
 {
     [ApiController]
-    [Route("[controller]")]
+    [Route("api/[controller]")]
     public class PersonsController : ControllerBase
     {
         private IPersonService _personService;
@@ -13,7 +13,7 @@ namespace AspNetCoreDockerMysql.Controllers
         {
             _personService = personService;
         }
-
+         
         // GET api/values
         [HttpGet]
         public IActionResult Get()
