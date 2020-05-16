@@ -1,39 +1,68 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Threading.Tasks;
+﻿using AspNetCoreDockerMysql.Model;
+using AspNetCoreDockerMysql.Services;
 using Microsoft.AspNetCore.Mvc;
-using Microsoft.Extensions.Logging;
 
 namespace AspNetCoreDockerMysql.Controllers
 {
     [ApiController]
     [Route("[controller]")]
-    public class WeatherForecastController : ControllerBase
+    public class PersonsController : ControllerBase
     {
-        private static readonly string[] Summaries = new[]
+        private IPersonService _personService;
+        public PersonsController(IPersonService personService)
         {
-            "Freezing", "Bracing", "Chilly", "Cool", "Mild", "Warm", "Balmy", "Hot", "Sweltering", "Scorching"
-        };
-
-        private readonly ILogger<WeatherForecastController> _logger;
-
-        public WeatherForecastController(ILogger<WeatherForecastController> logger)
-        {
-            _logger = logger;
+            _personService = personService;
         }
 
+        // GET api/values
         [HttpGet]
-        public IEnumerable<WeatherForecast> Get()
+        public IActionResult Get()
         {
-            var rng = new Random();
-            return Enumerable.Range(1, 5).Select(index => new WeatherForecast
-            {
-                Date = DateTime.Now.AddDays(index),
-                TemperatureC = rng.Next(-20, 55),
-                Summary = Summaries[rng.Next(Summaries.Length)]
-            })
-            .ToArray();
+            return Ok(_personService.FindAll());
         }
+
+        // GET api/values/5
+        [HttpGet("{id}")]
+        public IActionResult Get(long id)
+        {
+            var person = _personService.FindById(id);
+            if(person == null)
+            {
+                return NotFound();
+            }
+            return Ok(person);
+        }
+
+        // POST api/values
+        [HttpPost]
+        public IActionResult Post([FromBody]Person person)
+        {
+            if (person == null)
+            {
+                return BadRequest();
+            }
+            return new ObjectResult(_personService.Create(person));
+        }
+
+        // PUT api/values/5
+        [HttpPut("{id}")]
+        public IActionResult Put([FromBody] Person person)
+        {
+            if (person == null)
+            {
+                return BadRequest();
+            }
+            return new ObjectResult(_personService.Update(person));
+        }
+
+        // DELETE api/values/5
+        [HttpDelete("{id}")]
+        public IActionResult Delete(long id)
+        {
+            _personService.Delete(id);
+
+            return NoContent();
+        }
+
     }
 }
